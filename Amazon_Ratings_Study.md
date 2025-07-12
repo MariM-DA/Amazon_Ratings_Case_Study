@@ -5,7 +5,7 @@ date: "2025-07-12"
 ---
 # Introductions
 
-In this project, I will perform many real-life scenarios regarding data analysis such as cleaning, analyzing, visualizing and subsequently creating a presentation of the topic covered. The goal of this case study project is to create a fresh start to my brand new portfolio using my newfound skills.
+In this project, I will perform many real-life scenarios regarding data analysis such as cleaning, analyzing, visualizing and subsequently creating recommendations dependant on analysis results. The goal of this case study project is to create a fresh start to my brand new portfolio using my newfound skills.
 
 ### Scenario
 
