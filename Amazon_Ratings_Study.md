@@ -1,8 +1,7 @@
 ---
 title: "Amazon Sales Case Study Project"
 author: "Mari M."
-date: "2025-07-10"
-output: html_document
+date: "2025-07-12"
 ---
 # Introductions
 
@@ -89,6 +88,8 @@ ggplot(data = amazon_products_cleaned) + geom_col(mapping = aes(x = ratings_amou
 ```
 
 ![](https://i.ibb.co/C5xG44q5/Performance.png)
+
+
 
 *Car & Motorbike section is the underperforming candidate in this case, it is the least popular and least profitting category due to the sheer scale of Electronics reviews, which we can attribute directly to sales.*
 
